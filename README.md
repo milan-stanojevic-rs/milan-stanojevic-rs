@@ -6,9 +6,9 @@ I build modern web applications that are thoughtfully designed, built to perform
 
 My primary focus is **React and TypeScript**, backed by full-stack experience with **.NET, Node.js, REST APIs and SQL**. I enjoy working on UI architecture, browser fundamentals, reusable systems and product features that hold up beyond the first release.
 
-[Portfolio](https://www.milan-stanojevic.com) ·
-[LinkedIn](https://www.linkedin.com/in/milan-stanojevic-rs) ·
-[Email](mailto:milan@milan-stanojevic.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.milan-stanojevic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-stanojevic-rs)
+[![Email](https://img.shields.io/badge/Email-444444?style=flat-square)](mailto:milan@milan-stanojevic.com)
 
 ---
 
